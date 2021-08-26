@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, there! 👋 
 
 🎒 I am pursuing my PhD on the topic of **knowledge-integrated visual reasoning in the open world**.
 
