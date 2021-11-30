@@ -2,7 +2,7 @@
 
 🎒 I am pursuing my PhD on the topic of **knowledge-integrated visual reasoning in the open world**.
 
-🔭 I’m recently working on 🕸 **scene graph generation** (majorly) and 👽 **out-of-distribution detection** (minorly).
+🔭 I’m recently focusing on **out-of-distribution detection** 👽 and **scene graph generation** 🕸.
 
 <!--
 **Jingkang50/jingkang50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
