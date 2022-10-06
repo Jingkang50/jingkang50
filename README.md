@@ -1,6 +1,6 @@
 ### Hi, there! 👋 
 
-🎒 I am pursuing my PhD on the topic of **knowledge-integrated visual reasoning in the open world**.
+🎒 I am pursuing my PhD on the topic of **visual reasoning in the open world**.
 
 🔭 I’m recently focusing on **out-of-distribution detection** 👽 and **scene graph generation** 🕸.
 
