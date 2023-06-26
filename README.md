@@ -2,7 +2,7 @@
 
 🎒 I am pursuing my PhD on the topic of **visual perception and reasoning in the open world**.
 
-🔭 I’m recently focusing on **out-of-distribution detection** 👽 and **scene graph generation** 🕸.
+🔭 I’m recently focusing on **scene graph generation** 🕸, **vision language models** 🧠, and **embodied AI** 🤖️.
 
 If you’re interested in discussing related topics, feel free to schedule [a zoom chat](https://meetings.hubspot.com/jingkang?embed=true) with me!
 
