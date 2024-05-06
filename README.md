@@ -4,8 +4,6 @@
 
 🔭 I’m recently focusing on **scene graph generation** 🕸, **vision language models** 🧠, and **embodied AI** 🤖️.
 
-If you’re interested in discussing related topics, feel free to schedule [a zoom chat](https://meetings.hubspot.com/jingkang?embed=true) with me!
-
 <!--
 **Jingkang50/jingkang50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
