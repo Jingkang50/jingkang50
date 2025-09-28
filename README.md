@@ -4,11 +4,9 @@
 
 ## 🚀 Research Projects during my PhD:
 
-- **Visual Generalist Models**: Developing models that process diverse visual data (e.g., images, videos, 3D, audio, IMU) to tackle various tasks in perception, reasoning, generation, robotics, and gaming. Notable projects include [**EgoLife**](https://egolife-ai.github.io/), [**Octopus**](https://choiszt.github.io/Octopus/), [**FunQA**](https://funqa-benchmark.github.io/), and [**Otter**](https://github.com/EvolvingLMMs-Lab/Otter).
+- **Visual Generalist Models (2023-2025)**: Developing models that process diverse visual data (e.g., images, videos, 3D, audio, IMU) to tackle various tasks in perception, reasoning, generation, robotics, and gaming. Notable projects include [**EgoLife**](https://egolife-ai.github.io/), [**Octopus**](https://choiszt.github.io/Octopus/), [**FunQA**](https://funqa-benchmark.github.io/), and [**Otter**](https://github.com/EvolvingLMMs-Lab/Otter).
 
-- **AI Safety for Foundation Models**: Investigating how to mitigate hallucinations in large language models (LLMs) and multimodal models (LMMs). A key contribution is the introduction of [**UPD**](https://github.com/AtsuMiyai/UPD) to withhold answers when faced with unsolvable questions.
-
-## 🏆 Previous Contributions:
+- **AI Safety for Foundation Models (2023-2024)**: Investigating how to mitigate hallucinations in large language models (LLMs) and multimodal models (LMMs). A key contribution is the introduction of [**UPD**](https://github.com/AtsuMiyai/UPD) to withhold answers when faced with unsolvable questions.
 
 - **PSG Series (2022-2023)**: Led the development of the [**PSG**](https://github.com/Jingkang50/OpenPSG), [**PVSG**](https://github.com/LilyDaytoy/OpenPVSG), and [**PSG4D**](https://github.com/Jingkang50/PSG4D) models, focusing on relation modeling for scene understanding. I also collaborated on works like [**Relate-Anything**](https://github.com/EvolvingLMMs-Lab/RelateAnything) and [**PairNet**](https://github.com/king159/Pair-Net).
 
