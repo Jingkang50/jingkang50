@@ -1,10 +1,8 @@
-# Hi there! 👋 I'm **Jingkang Yang**.
+# Hi there! 👋 I'm **Jake Yang**.
 
-🎓 Currently pursuing a PhD in **Visual Perception and Reasoning**.
+🚀 Currently Co-Founder at Synvo AI. We build the contextual intelligence engine. I graduated from MMLab@NTU in June 2025.
 
-🔍 My research interests revolve around **Vision-Language Models** 🧠, **Embodied Agents** 🤖, and **Scene Graph Generation** 🕸. I am passionate about creating generalist AI models capable of understanding and interacting with complex visual data.
-
-## 🚀 My Ongoing Research Projects:
+## 🚀 Research Projects during my PhD:
 
 - **Visual Generalist Models**: Developing models that process diverse visual data (e.g., images, videos, 3D, audio, IMU) to tackle various tasks in perception, reasoning, generation, robotics, and gaming. Notable projects include [**EgoLife**](https://egolife-ai.github.io/), [**Octopus**](https://choiszt.github.io/Octopus/), [**FunQA**](https://funqa-benchmark.github.io/), and [**Otter**](https://github.com/EvolvingLMMs-Lab/Otter).
 
